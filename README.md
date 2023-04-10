@@ -1,4 +1,3 @@
 # thefittest-notebooks
 Notebooks on how to use Thefittest
- * [**Solving the OneMax problem with a genetic algorithm**](genetic_algorithm_onemax_problem.ipynb) 
- * [**Solving the Rastrigin problem with a genetic algorithm**](genetic_algorithm_rastrigin_problem.ipynb) 
+ * [**Solving binary and real-valued optimization problems with a genetic algorithm**](genetic_algorithm_binary_rastrigin_custom_problems.ipynb) 
