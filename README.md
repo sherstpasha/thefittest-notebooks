@@ -1,6 +1,6 @@
 # thefittest-notebooks
 
-**If any notebooks are <u>too big to display</u>, you can use [<u>NBviewer</u>](https://nbviewer.org/)**.
+**If some notebooks are <u>too big to display</u>, you can use [<u>NBviewer</u>](https://nbviewer.org/)**.
 
 Notebooks on how to use Thefittest:
  * [**Solving binary and real-valued optimization problems with a genetic algorithm;**](genetic_algorithm_binary_rastrigin_custom_problems.ipynb) 
