@@ -8,3 +8,4 @@ Notebooks on how to use Thefittest:
  * [**Symbolic regression problems solving using genetic programming algorithm;**](genetic_programming_symbolic_regression_problem.ipynb) 
  * [**SelfCGA self-configuring visualisation;**](selfcga_animation_proba.ipynb) 
  * [**SelfCGP self-configuring visualisation;**](selfcgp_proba.ipynb) 
+ * [**The process of adapting SaDE parameters;**](sade2005_rastrigin.ipynb) 
